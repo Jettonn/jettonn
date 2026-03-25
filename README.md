@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jeton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <a href="https://github.com/Jettonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Senior+Frontend+Engineer;React+%26+Vue+Specialist;Open+Source+Contributor;5%2B+Years+Building+Production+Apps" alt="Typing SVG" /></a>
+  <a href="https://github.com/Jettonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Senior+Frontend+Engineer;React+%26+Vue+Specialist;Open+Source+Contributor;Building+Production+Apps" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### About Me
 
-- Senior Frontend Engineer from **Kosovo** with **5+ years** of experience in React and Vue
+- Senior Frontend Engineer from **Kosovo** specializing in React and Vue
 - Building production apps across startups, agencies, and enterprises
 - Creator of [**originui-vue**](https://github.com/Jettonn/originui-vue) — a Vue 3 component library with **200+ stars**
 - Open source contributor to projects like [Radix Vue](https://github.com/radix-vue/radix-vue) and [Tiptap](https://github.com/ueberdosis/tiptap)
