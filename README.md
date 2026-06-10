@@ -52,12 +52,7 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Jettonn/prezento">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jettonn&repo=prezento&theme=github_dark&hide_border=true&bg_color=0d1117" alt="prezento" />
-      </a>
-    </td>
-    <td width="50%">
+    <td width="100%">
       <a href="https://github.com/Jettonn/originui-vue">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jettonn&repo=originui-vue&theme=github_dark&hide_border=true&bg_color=0d1117" alt="originui-vue" />
       </a>
